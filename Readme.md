@@ -9,7 +9,7 @@ The present Readme explains how to annotate point-clouds using CloudCompare and 
 ### CloudCompare source install and modification
 
 1. Download CloudCompare, a tool for 3D point cloud and mesh processing: [http://www.danielgm.net/cc/](http://www.danielgm.net/cc/)
-2. Modify it to be able to export semantic classes, following our own [modification procedure](modifications.html)
+2. Modify it to be able to export semantic classes, following our own [modification procedure](modifications.md)
 3. Compile following the [official instructions](https://github.com/cloudcompare/trunk/blob/master/BUILD.md)
 
 
